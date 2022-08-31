@@ -25,7 +25,7 @@ SECRET_KEY = 'y-#l(tgngi2wzok2@=ntv8=k0%=x^ne(ze8^i!0nqxmng&u&ba'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'quotesdjango.herokuapp.com', 'quotesdjango.up.railway.app']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'quotesdjango.up.railway.app']
 
 
 # Application definition
